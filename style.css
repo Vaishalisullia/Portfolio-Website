@@ -49,10 +49,7 @@ nav {
     flex-wrap: wrap;
 }
 
-.logo {
-    width: 140px;
-    border-radius: 20%;
-}
+
 
 nav ul {
     list-style: none;
